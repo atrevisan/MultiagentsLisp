@@ -42,7 +42,6 @@ All agent files are encoded using UTF-8 to allow foreign languages like Japanese
 
 29/06/2012 Allan Trevisan
 
-APPLICATION LINK ->> https://www.dropbox.com/sh/2d3ltz2mrkdm4rd/NtTOyPg8kk
 
 HOW TO USE THIS APLICATION
 ===========================
